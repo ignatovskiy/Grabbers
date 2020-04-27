@@ -4,3 +4,4 @@
 ## Реализованы:
 - online_cinemas.py (парсеры прямых ссылок на фильмы с Baskino и Kinokrad)
 - statista.py (парсер новых картинок с инфографиков с Statista)
+- domofomd.py (парсер объявлений о продаже квартир с Domofond)
